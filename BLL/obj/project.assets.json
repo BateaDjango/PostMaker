@@ -25,6 +25,39 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
+      },
+      "Data Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Data Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data Contract.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
       }
     }
   },
@@ -171,10 +204,28 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
+    },
+    "Data Contract/1.0.0": {
+      "type": "project",
+      "path": "../Data Contract/Data Contract.csproj",
+      "msbuildProject": "../Data Contract/Data Contract.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "DAL >= 1.0.0",
+      "Data Contract >= 1.0.0",
+      "Domain >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -207,7 +258,17 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\spinu\\Desktop\\PostMaker\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\spinu\\Desktop\\PostMaker\\DAL\\DAL.csproj"
+            },
+            "C:\\Users\\spinu\\Desktop\\PostMaker\\Data Contract\\Data Contract.csproj": {
+              "projectPath": "C:\\Users\\spinu\\Desktop\\PostMaker\\Data Contract\\Data Contract.csproj"
+            },
+            "C:\\Users\\spinu\\Desktop\\PostMaker\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\spinu\\Desktop\\PostMaker\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

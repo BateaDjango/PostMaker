@@ -22,16 +22,26 @@ namespace PostMaker.Controllers
         {
             return View();
         }
-
+        [HttpGet]
         public IActionResult CreatePost()
         {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CreatePost(CreatePostViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+
+            }
             return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier }); //a
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }
