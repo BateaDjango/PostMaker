@@ -1,0 +1,16 @@
+C:\Users\spinu\Desktop\PostMaker\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\spinu\Desktop\PostMaker\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\spinu\Desktop\PostMaker\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\spinu\Desktop\PostMaker\BLL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\spinu\Desktop\PostMaker\BLL\bin\Debug\netstandard2.0\Data Contract.dll
+C:\Users\spinu\Desktop\PostMaker\BLL\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\spinu\Desktop\PostMaker\BLL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\spinu\Desktop\PostMaker\BLL\bin\Debug\netstandard2.0\Data Contract.pdb
+C:\Users\spinu\Desktop\PostMaker\BLL\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\spinu\Desktop\PostMaker\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\spinu\Desktop\PostMaker\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\spinu\Desktop\PostMaker\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\spinu\Desktop\PostMaker\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\spinu\Desktop\PostMaker\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+C:\Users\spinu\Desktop\PostMaker\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\spinu\Desktop\PostMaker\BLL\obj\Debug\netstandard2.0\BLL.pdb

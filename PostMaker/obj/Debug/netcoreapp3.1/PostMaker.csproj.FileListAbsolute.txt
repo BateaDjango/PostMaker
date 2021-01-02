@@ -35,3 +35,18 @@ C:\Users\spinu\Desktop\PostMaker\PostMaker\obj\Debug\netcoreapp3.1\PostMaker.pdb
 C:\Users\spinu\Desktop\PostMaker\PostMaker\obj\Debug\netcoreapp3.1\PostMaker.genruntimeconfig.cache
 C:\Users\spinu\Desktop\PostMaker\PostMaker\obj\Debug\netcoreapp3.1\PostMaker.csproj.CopyComplete
 C:\Users\spinu\Desktop\PostMaker\PostMaker\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreatePost.cshtml.g.cs
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\Data Contract.dll
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\Data Contract.pdb
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\spinu\Desktop\PostMaker\PostMaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

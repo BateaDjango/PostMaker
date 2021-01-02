@@ -69,3 +69,20 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+.post-container{
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #f4efef;
+    border: 2px solid #cfcfcf;
+    border-radius: 5px;
+    width: 65%;
+}
+.post-content{
+    margin: 10px 0px;
+    padding 10px;
+    background-color: white;
+    min-height: 60px;
+    border-radius: 5x;
+}
+

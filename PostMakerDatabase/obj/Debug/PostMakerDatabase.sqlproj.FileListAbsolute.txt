@@ -1,0 +1,6 @@
+C:\Users\spinu\Desktop\PostMaker\PostMakerDatabase\bin\Debug\PostMakerDatabase.dacpac
+C:\Users\spinu\Desktop\PostMaker\PostMakerDatabase\bin\Debug\PostMakerDatabase.dll
+C:\Users\spinu\Desktop\PostMaker\PostMakerDatabase\bin\Debug\PostMakerDatabase.pdb
+C:\Users\spinu\Desktop\PostMaker\PostMakerDatabase\obj\Debug\PostMakerDatabase.sqlprojAssemblyReference.cache
+C:\Users\spinu\Desktop\PostMaker\PostMakerDatabase\obj\Debug\PostMakerDatabase.dll
+C:\Users\spinu\Desktop\PostMaker\PostMakerDatabase\obj\Debug\PostMakerDatabase.pdb

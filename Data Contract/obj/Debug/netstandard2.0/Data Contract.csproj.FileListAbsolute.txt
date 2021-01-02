@@ -1,0 +1,9 @@
+C:\Users\spinu\Desktop\PostMaker\Data Contract\bin\Debug\netstandard2.0\Data Contract.deps.json
+C:\Users\spinu\Desktop\PostMaker\Data Contract\bin\Debug\netstandard2.0\Data Contract.dll
+C:\Users\spinu\Desktop\PostMaker\Data Contract\bin\Debug\netstandard2.0\Data Contract.pdb
+C:\Users\spinu\Desktop\PostMaker\Data Contract\obj\Debug\netstandard2.0\Data Contract.csprojAssemblyReference.cache
+C:\Users\spinu\Desktop\PostMaker\Data Contract\obj\Debug\netstandard2.0\Data Contract.AssemblyInfoInputs.cache
+C:\Users\spinu\Desktop\PostMaker\Data Contract\obj\Debug\netstandard2.0\Data Contract.AssemblyInfo.cs
+C:\Users\spinu\Desktop\PostMaker\Data Contract\obj\Debug\netstandard2.0\Data Contract.csproj.CoreCompileInputs.cache
+C:\Users\spinu\Desktop\PostMaker\Data Contract\obj\Debug\netstandard2.0\Data Contract.dll
+C:\Users\spinu\Desktop\PostMaker\Data Contract\obj\Debug\netstandard2.0\Data Contract.pdb

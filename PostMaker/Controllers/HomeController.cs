@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using BLL.Abstract;
+using Data_Contract;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using PostMaker.Models;
@@ -11,16 +13,24 @@ namespace PostMaker.Controllers
 {
     public class HomeController : Controller
     {
-        
 
-        public HomeController()
+        private readonly IPostService _postService;
+        public HomeController(IPostService postService)
         {
-            
+            _postService = postService;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var dtos = _postService.GetPosts();
+
+            var posts = dtos.Select(x => new PostViewModel()
+            {
+                Author = x.Author,
+                Content = x.Content,
+                Created = x.Created.ToString()
+            }).ToList();
+            return View(posts);
         }
         [HttpGet]
         public IActionResult CreatePost()
@@ -33,7 +43,13 @@ namespace PostMaker.Controllers
         {
             if (ModelState.IsValid)
             {
-
+                var dto = new PostDto()
+                {
+                    Author = model.Author,
+                    Content = model.Content,
+                };
+                _postService.CreatePost(dto);
+                return RedirectToAction("Index");
             }
             return View();
         }
